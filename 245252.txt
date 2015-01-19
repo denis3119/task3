@@ -1,0 +1,19 @@
+res = randname+' '+randlast_name+'; '
+	res+=randstreet+', '
+	res+= str(random.randint(1,100))+', '+str(random.randint(1,100))
+	res+=', г.'+randcityes
+	res+=', '+country+' '
+	res+=numberphone
+	#для америки John Smith; 106 E. Sixth Street, 
+	#Suite 900, Austin, Texas, 78701, USA; +1-512-322-5300
+	if country.lower()=='usa':
+		res=randname+' '+randlast_name+'; '
+		res+=str(random.randint(1,200))+' '+randstreet+', '
+		if random.randint(0,1)==1:
+			res+='Suite '+str(random.randint(1,1000))+', '
+		else:
+			res+=str(random.randint(1,5))+'rd and '
+			res+=str(random.randint(5,10))+'th Floors,'
+		res+=randcityes+str(code_usa(randcityes))
+	if (error)==0:
+		return res

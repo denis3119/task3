@@ -1,0 +1,130 @@
+Abilene, Texas, 78301
+Akron, Ohio, 43085
+Albuquerque, New Mexico, 87501
+Alexandria Virginia, 98506
+Allentown, Pennsylvania, 17101
+Amarillo, Texas, 78304
+Aurora, Colorado, 80214
+Aurora, Illinois, 62701
+Austin, Texas, 78367
+Bakersfield, California, 94203
+Baltimore Maryland, 21405
+Baton, Rouge, Louisiana, 70806
+Beaumont, Texas, 78303
+Bellevue, Washington, 25305
+Berkeley, California, 94206
+Billings, Montana, 59606
+Birmingham, Alabama, 36101
+Boise, Idaho, 83703
+Boston Massachusetts, 02101
+Boulder, Colorado, 80215
+Bridgeport, Connecticut, 06102
+Centennial, Colorado, 80216
+Chandler, Arizona, 85007
+Charleston, South Carolina, 29201
+Charlotte, North Carolina, 27601
+Chattanooga, Tennessee, 37201
+Chesapeake Virginia, 98501
+Chicago, Illinois, 62705
+Chula Vista, California, 94209
+Cincinnati, Ohio, 4306
+Clarksville, Tennessee, 37202
+Clearwater, Florida, 32345
+Cleveland, Ohio, 43087
+Colorado Springs, Colorado, 80217
+Columbia, South Carolina, 29202
+Columbia, Missouri, 65107
+Columbus, Ohio, 43088
+Columbus, Georgia, 30317
+Concord, California, 94256
+Coral, Springs, Florida, 32346
+Corona, California, 94213
+Corpus, Christi, Texas, 78399
+Costa, Mesa, California, 94223
+Daly, City, California, 95203
+Davenport, Iowa, 50301
+Denton, Texas, 78398
+Denver, Colorado, 80218
+Des Moines, Iowa, 50302
+Detroit, Michigan, 48901
+Downey, California, 95203
+Durham, North Carolina, , 27606
+El, Paso, Texas, 78395
+Elgin, Illinois, 62707
+Elizabeth, New Jersey, 08604
+Elk, Grove, California, 94273
+Erie, Pennsylvania, 17109
+Escondido, California, 94293
+Eugene, Oregon, 97304
+Evansville, Indiana, 46206
+Fayetteville, North Carolina, 27605
+Flint, Michigan, 48902
+McAllen, Texas, 78356
+Memphis, Tennessee, 
+Mesa, Arizona, 85009
+Miami, Florida, 32347
+Miami, Gardens, Florida, 32348
+Milwaukee, Wisconsin, 82001
+Minneapolis, Minnesota, 55105
+Miramar, Florida, 32349
+Mobile, Alabama, 36103
+Modesto, California, 94204
+Montgomery, Alabama, 36104
+Moreno, Valley, California, 94267
+New Haven, Connecticut, 06107
+New Orleans, Louisiana, 70809
+New York, New York, 12201
+Newark, New Jersey, 08603
+Newport, News Virginia, 98507
+Norfolk Virginia, 98509
+Norman, Oklahoma, 73101
+North Las Vegas, Nevada, 89705
+Norwalk, California, 94211
+Oceanside, California, 94212
+Odessa, Texas, 78344
+Overland, Park, Kansas, 66601
+Oxnard, California, 94213
+Palmdale, California, 94214
+Pasadena, Texas, 78377
+Pasadena, California, 94215
+Paterson, New Jersey, 08601
+Pembroke Pines, Florida, 32399
+Peoria, Arizona, 85056
+Peoria, Illinois, 62791
+Philadelphia Pennsylvania, 17104
+Phoenix, Arizona, 85003
+Pittsburgh, Pennsylvania, 17109
+Pomona, California, 94216
+Pompano Beach, Florida, 32301
+Port St Lucie, Florida, 32302
+Portland, Oregon, 97307
+Providence, Rhode Island, 02901
+Provo, Utah, 84101
+Pueblo, Colorado, 80219
+Rancho Cucamonga, California, 94217
+Roseville, California, 94218
+Round Rock, Texas, 78388
+Salem, Oregon, 97309
+Salinas, California, 94219
+Salt Lake City, Utah, 84102
+San, Antonio, Texas, 78399
+Santa, Rosa, California, 94220
+Savannah, Georgia, 30318
+Scottsdale, Arizona, 85090
+Seattle, Washington, 25307
+Shreveport, Louisiana, 70812
+Simi, Valley, California, 94290
+Sioux, Falls, South Dakota, 57501
+South, Bend, Indiana, 46287
+Spokane, Washington, 25345
+Springfield, Massachusetts, 02102
+Springfield, Illinois, 62751
+St Louis, Missouri, 65109
+St Paul, Minnesota, 55106
+St Petersburg, Florida, 32321
+Stamford, Connecticut, 06109
+Sterling, Heights, Michigan, 48905
+Stockton, California, 94291
+Winston-Salem, North Carolina, 27612
+Worcester Massachusetts, 02103
+Yonkers, New York, 12203
